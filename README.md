@@ -195,11 +195,11 @@ export default function App() {
 
 <div align="center">
 
-![Meu-Vídeo1_1](https://user-images.githubusercontent.com/48495838/79800903-87045400-8333-11ea-9e0e-e07e3eb7d09b.gif)
+![Meu-Vdeo01](https://user-images.githubusercontent.com/48495838/82568733-a4585800-9b55-11ea-8893-64db2f7c0463.gif)
 
 <br>
 
-![Meu-Vídeo2_2](https://user-images.githubusercontent.com/48495838/79800904-88ce1780-8333-11ea-9313-85cbda2cca11.gif)
+![Meu-Vdeo02](https://user-images.githubusercontent.com/48495838/82568737-a5898500-9b55-11ea-8326-5d331e053705.gif)
 
 </div>
 
