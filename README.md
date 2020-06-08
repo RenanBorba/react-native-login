@@ -221,7 +221,6 @@ export default function App() {
 
 </div>
 
-<br><br>
-<br>
+<br><br><br>
 
 Renan Borba.
