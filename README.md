@@ -50,7 +50,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para layout de Tela de
 
 <br><br>
 
-## :punch: Como contribuir 
+## :punch: Como contribuir
 <ul>
   <li>Dê um fork nesse repositório</li>
   <li>Crie a sua branch com a feature</li>
