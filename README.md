@@ -66,7 +66,9 @@ Aplicação Front-end Mobile desenvolvida em React Native para layout de Tela de
       <li>git push origin my-feature</li>
     </ul>
 </ul>
-<br><br><br>
+
+<br><br>
+<br>
 
 ## :mega: Segue abaixo a principal estrutura e interface:
 
