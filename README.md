@@ -20,7 +20,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para layout de Tela de
 
 <div align="center">
 
-![00](https://user-images.githubusercontent.com/48495838/81190178-de3e3180-8f8d-11ea-89e1-9f7cf6f6348a.png)
+![login](https://user-images.githubusercontent.com/48495838/84698552-5a7d4a80-af26-11ea-98ae-9c8074e8e53e.png)
 
 </div>
 
