@@ -67,8 +67,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para layout de Tela de
     </ul>
 </ul>
 
-<br><br>
-<br>
+<br><br><br>
 
 ## :mega: Segue abaixo a principal estrutura e interface:
 
