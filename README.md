@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-login.svg)](https://github.com/RenanBorba/react-native-login) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-login.svg)](https://github.com/RenanBorba/react-native-login) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
+  
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-login.svg)](https://github.com/RenanBorba/react-native-login) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-login.svg)](https://github.com/RenanBorba/react-native-login) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
 
@@ -221,7 +221,3 @@ export default function App() {
 ![Meu-Vdeo02](https://user-images.githubusercontent.com/48495838/82568737-a5898500-9b55-11ea-8326-5d331e053705.gif)
 
 </div>
-
-<br><br><br>
-
-Renan Borba.
