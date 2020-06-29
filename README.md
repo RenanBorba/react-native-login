@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 # Projeto Portfólio Login - Aplicação Mobile React Native
 
