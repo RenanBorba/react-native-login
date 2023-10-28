@@ -10,6 +10,10 @@
   
 [![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-login.svg)](https://github.com/RenanBorba/react-native-login) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-login.svg)](https://github.com/RenanBorba/react-native-login) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+<br>
+
+![logo-home](https://github.com/RenanBorba/web-secondary/assets/48495838/91c29e55-0623-4f22-b641-16874351fca5)
+
 </div>
 
 <br>
